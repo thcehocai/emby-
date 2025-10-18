@@ -1,0 +1,885 @@
+{
+  "description": "平凡少年韩立出生贫困，为了让家人过上更好的生活，自愿前去七玄门参加入门考核，最终被墨大夫收入门下。墨大夫一开始对韩立悉心培养、传授医术，让韩立对他非常感激，但随着一同入门的弟子张铁失踪，韩立才发现了墨大夫的真面目。墨大夫试图夺舍韩立，最终却被韩立反杀。通过墨大夫的遗书韩立得知了一个全新世界：修仙界的存在。在帮助七玄门抵御外敌之后，韩立离开了七玄门，前去墨大夫的家中寻找暖阳宝玉解毒，并帮助墨家人打败了敌人。通过墨大夫之女墨彩环的口中得知太南小会地址，韩立为追寻修仙人的足迹决定前往太南小会，拜别家人后，韩立来到太南谷，结识了一众修仙人士，正式展开了自己的修仙之旅。",
+  "groups": [
+    {
+      "name": "风起天南",
+      "order": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 12,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 13,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 14,
+          "season_number": 1,
+          "order": 13
+        },
+        {
+          "episode_number": 15,
+          "season_number": 1,
+          "order": 14
+        },
+        {
+          "episode_number": 16,
+          "season_number": 1,
+          "order": 15
+        },
+        {
+          "episode_number": 17,
+          "season_number": 1,
+          "order": 16
+        }
+      ]
+    },
+    {
+      "name": "燕家堡之战",
+      "order": 2,
+      "episodes": [
+        {
+          "episode_number": 18,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 19,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 20,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 21,
+          "season_number": 1,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "name": "魔道争锋",
+      "order": 3,
+      "episodes": [
+        {
+          "episode_number": 22,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 23,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 24,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 25,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 26,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 27,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 28,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 29,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 30,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 31,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 32,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 33,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 34,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 35,
+          "season_number": 1,
+          "order": 13
+        },
+        {
+          "episode_number": 36,
+          "season_number": 1,
+          "order": 14
+        },
+        {
+          "episode_number": 37,
+          "season_number": 1,
+          "order": 15
+        },
+        {
+          "episode_number": 38,
+          "season_number": 1,
+          "order": 16
+        },
+        {
+          "episode_number": 39,
+          "season_number": 1,
+          "order": 17
+        },
+        {
+          "episode_number": 40,
+          "season_number": 1,
+          "order": 18
+        },
+        {
+          "episode_number": 41,
+          "season_number": 1,
+          "order": 19
+        },
+        {
+          "episode_number": 42,
+          "season_number": 1,
+          "order": 20
+        },
+        {
+          "episode_number": 43,
+          "season_number": 1,
+          "order": 21
+        },
+        {
+          "episode_number": 44,
+          "season_number": 1,
+          "order": 22
+        },
+        {
+          "episode_number": 45,
+          "season_number": 1,
+          "order": 23
+        },
+        {
+          "episode_number": 46,
+          "season_number": 1,
+          "order": 24
+        }
+      ]
+    },
+    {
+      "name": " 再别天南",
+      "order": 4,
+      "episodes": [
+        {
+          "episode_number": 47,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 48,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 49,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 50,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 51,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 52,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 53,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 54,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 55,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 56,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 57,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 58,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 59,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 60,
+          "season_number": 1,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "name": "初入星海",
+      "order": 5,
+      "episodes": [
+        {
+          "episode_number": 61,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 62,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 63,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 64,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 65,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 66,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 67,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 68,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 69,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 70,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 71,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 72,
+          "season_number": 1,
+          "order": 11
+        }
+      ]
+    },
+    {
+      "name": "星海飞驰序章",
+      "order": 6,
+      "episodes": [
+        {
+          "episode_number": 73,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 74,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 75,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 76,
+          "season_number": 1,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "name": "星海飞驰",
+      "order": 7,
+      "episodes": [
+        {
+          "episode_number": 77,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 78,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 79,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 80,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 81,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 82,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 83,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 84,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 85,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 86,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 87,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 88,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 89,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 90,
+          "season_number": 1,
+          "order": 13
+        },
+        {
+          "episode_number": 91,
+          "season_number": 1,
+          "order": 14
+        },
+        {
+          "episode_number": 92,
+          "season_number": 1,
+          "order": 15
+        },
+        {
+          "episode_number": 93,
+          "season_number": 1,
+          "order": 16
+        },
+        {
+          "episode_number": 94,
+          "season_number": 1,
+          "order": 17
+        },
+        {
+          "episode_number": 95,
+          "season_number": 1,
+          "order": 18
+        },
+        {
+          "episode_number": 96,
+          "season_number": 1,
+          "order": 19
+        },
+        {
+          "episode_number": 97,
+          "season_number": 1,
+          "order": 20
+        },
+        {
+          "episode_number": 98,
+          "season_number": 1,
+          "order": 21
+        },
+        {
+          "episode_number": 99,
+          "season_number": 1,
+          "order": 22
+        },
+        {
+          "episode_number": 100,
+          "season_number": 1,
+          "order": 23
+        },
+        {
+          "episode_number": 101,
+          "season_number": 1,
+          "order": 24
+        },
+        {
+          "episode_number": 102,
+          "season_number": 1,
+          "order": 25
+        },
+        {
+          "episode_number": 103,
+          "season_number": 1,
+          "order": 26
+        },
+        {
+          "episode_number": 104,
+          "season_number": 1,
+          "order": 27
+        },
+        {
+          "episode_number": 105,
+          "season_number": 1,
+          "order": 28
+        },
+        {
+          "episode_number": 106,
+          "season_number": 1,
+          "order": 29
+        },
+        {
+          "episode_number": 107,
+          "season_number": 1,
+          "order": 30
+        },
+        {
+          "episode_number": 108,
+          "season_number": 1,
+          "order": 31
+        },
+        {
+          "episode_number": 109,
+          "season_number": 1,
+          "order": 32
+        },
+        {
+          "episode_number": 110,
+          "season_number": 1,
+          "order": 33
+        },
+        {
+          "episode_number": 111,
+          "season_number": 1,
+          "order": 34
+        },
+        {
+          "episode_number": 112,
+          "season_number": 1,
+          "order": 35
+        },
+        {
+          "episode_number": 113,
+          "season_number": 1,
+          "order": 36
+        },
+        {
+          "episode_number": 114,
+          "season_number": 1,
+          "order": 37
+        },
+        {
+          "episode_number": 115,
+          "season_number": 1,
+          "order": 38
+        },
+        {
+          "episode_number": 116,
+          "season_number": 1,
+          "order": 39
+        },
+        {
+          "episode_number": 117,
+          "season_number": 1,
+          "order": 40
+        },
+        {
+          "episode_number": 118,
+          "season_number": 1,
+          "order": 41
+        },
+        {
+          "episode_number": 119,
+          "season_number": 1,
+          "order": 42
+        },
+        {
+          "episode_number": 120,
+          "season_number": 1,
+          "order": 43
+        },
+        {
+          "episode_number": 121,
+          "season_number": 1,
+          "order": 44
+        },
+        {
+          "episode_number": 122,
+          "season_number": 1,
+          "order": 45
+        },
+        {
+          "episode_number": 123,
+          "season_number": 1,
+          "order": 46
+        },
+        {
+          "episode_number": 124,
+          "season_number": 1,
+          "order": 47
+        }
+      ]
+    },
+    {
+      "name": "外海风云",
+      "order": 8,
+      "episodes": [
+        {
+          "episode_number": 125,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 126,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 127,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 128,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 129,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 130,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 131,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 132,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 133,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 134,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 135,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 136,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 137,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 138,
+          "season_number": 1,
+          "order": 13
+        },
+        {
+          "episode_number": 139,
+          "season_number": 1,
+          "order": 14
+        },
+        {
+          "episode_number": 140,
+          "season_number": 1,
+          "order": 15
+        },
+        {
+          "episode_number": 141,
+          "season_number": 1,
+          "order": 16
+        },
+        {
+          "episode_number": 142,
+          "season_number": 1,
+          "order": 17
+        },
+        {
+          "episode_number": 143,
+          "season_number": 1,
+          "order": 18
+        },
+        {
+          "episode_number": 144,
+          "season_number": 1,
+          "order": 19
+        },
+        {
+          "episode_number": 145,
+          "season_number": 1,
+          "order": 20
+        },
+        {
+          "episode_number": 146,
+          "season_number": 1,
+          "order": 21
+        },
+        {
+          "episode_number": 147,
+          "season_number": 1,
+          "order": 22
+        },
+        {
+          "episode_number": 148,
+          "season_number": 1,
+          "order": 23
+        },
+        {
+          "episode_number": 149,
+          "season_number": 1,
+          "order": 24
+        },
+        {
+          "episode_number": 150,
+          "season_number": 1,
+          "order": 25
+        },
+        {
+          "episode_number": 151,
+          "season_number": 1,
+          "order": 26
+        },
+        {
+          "episode_number": 152,
+          "season_number": 1,
+          "order": 27
+        }
+      ]
+    },
+    {
+      "name": "重返天南",
+      "order": 9,
+      "episodes": [
+        {
+          "episode_number": 153,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 154,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 155,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 156,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 157,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 158,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 159,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 160,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 161,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 162,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 163,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 164,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 165,
+          "season_number": 1,
+          "order": 12
+        }
+      ]
+    }
+  ],
+  "id": ""
+}
